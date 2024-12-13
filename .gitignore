@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+
+# other_datasets raw files
+other_datasets/*/*.wav
+other_datasets/*/*.txt
+other_datasets/*/*.metadata
